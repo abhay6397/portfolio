@@ -19,10 +19,10 @@ const Home = () => {
                     >I'm a Front End Developer</h2>
                     <p
                         className='text-gray-500 max-w-md py-4'
-                    >Lorem, ipsum dolor sit amet consectetur adipisicing
-                        eveniet dolor minus minima explicabo nesciunt i,
-                        Nulla provident minus optio assumenda
-                        commodi tempore aliquid culpa?</p>
+                    >Proficient frontend developer skilled in HTML, CSS, JavaScript,
+                     jQuery, Bootstrap, Tailwind CSS, and React.js. Experienced 
+                     in building responsive and dynamic user interfaces with a
+                     focus on performance.</p>
 
                     <div>
                     <Link className='group text-white w-fit px-6 py-3 my-2

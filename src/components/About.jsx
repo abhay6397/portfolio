@@ -15,11 +15,11 @@ const About = () => {
         <p className=' text-4xl font-bold border-b-4 border-gray-500 inline '
         >About</p>
       </div>
-        <p className='text-xl mt-7'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt, reiciendis optio molestias architecto voluptate impedit corrupti autem ab molestiae nisi a aliquam, doloremque consequuntur nulla provident mollitia ipsa quas? </p>
+        <p className='text-xl mt-7'>Frontend developer with expertise in HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind CSS, and React.js, dedicated to building interactive and responsive web interfaces. I thrive on creating seamless user experiences. </p>
 
         <br />
    
-        <p className='text-xl mt-7'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt, reiciendis optio molestias architecto voluptate impedit corrupti autem ab molestiae nisi a aliquam, doloremque consequuntur nulla provident mollitia ipsa quas?</p>
+        <p className='text-xl mt-7'>In addition to my frontend expertise, I have foundational knowledge of backend technologies, including Node.js, Express.js, MongoDB, and GitHub. This allows me to contribute effectively to full stack development and collaborate across various stages of the project lifecycle.</p>
       </div>
     </div>
   )
