@@ -24,7 +24,7 @@ const Exprience = () => {
       id:4,
       name:"javascript",
       shadow:"shadow-yellow-600",
-      img:"https://instructobit.com/static/img/post_defaults/javascript.jpg"
+      img:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/500px-JavaScript-logo.png"
     },
     {
       id:5,
