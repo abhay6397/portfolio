@@ -27,7 +27,7 @@ const SideBar = () => {
         },
         {
             id:4,
-            link:'/AbhayChoudharyResume.pdf',
+            link:'/Abhay-Choudhary-Resume.pdf',
             name: 'Resume',
             download: true,
             icon:<BsFillPersonLinesFill size={30}/>,
